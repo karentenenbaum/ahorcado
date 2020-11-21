@@ -1,0 +1,9 @@
+.end-display {
+  min-height: 100vh;
+  min-width: 100vh;
+  display: flex;
+  font-size: 2em;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.2);
+}
